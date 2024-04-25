@@ -1,0 +1,16 @@
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\WinFormsApp38.Form1.resources
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\WinFormsApp38.csproj.GenerateResource.cache
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\WinFormsApp38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\WinFormsApp38.AssemblyInfoInputs.cache
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\WinFormsApp38.AssemblyInfo.cs
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\WinFormsApp38.csproj.CoreCompileInputs.cache
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\bin\Debug\net8.0-windows\WinFormsApp38.exe
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\bin\Debug\net8.0-windows\WinFormsApp38.deps.json
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\bin\Debug\net8.0-windows\WinFormsApp38.runtimeconfig.json
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\bin\Debug\net8.0-windows\WinFormsApp38.dll
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\bin\Debug\net8.0-windows\WinFormsApp38.pdb
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\WinFormsApp38.dll
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\refint\WinFormsApp38.dll
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\WinFormsApp38.pdb
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\WinFormsApp38.genruntimeconfig.cache
+C:\Users\stand\source\repos\WinFormsApp38\WinFormsApp38\obj\Debug\net8.0-windows\ref\WinFormsApp38.dll
